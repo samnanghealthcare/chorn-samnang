@@ -1,0 +1,104 @@
+MEDIA SOURCES — AIRCRAFT GENERAL PRACTICES: JACKING
+
+Every file below was actually downloaded during production. URLs are the exact download URLs used.
+Licences were read from each file's Wikimedia Commons page metadata (extmetadata) at download time.
+
+== PHOTOGRAPHS (assets/images/, 1920 px wide renditions from Wikimedia Commons) ==
+- assets/images/jack_a10_wide.jpg
+    Title    : File:A U.S. Air Force A-10 Thunderbolt II aircraft undergoes scheduled maintenance Dec. 30, 2013, at Bagram Airfield, Afghanistan 131230-F-KB808-124.jpg
+    Page     : https://commons.wikimedia.org/wiki/File:A_U.S._Air_Force_A-10_Thunderbolt_II_aircraft_undergoes_scheduled_maintenance_Dec._30%2C_2013%2C_at_Bagram_Airfield%2C_Afghanistan_131230-F-KB808-124.jpg
+    Download : https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/A_U.S._Air_Force_A-10_Thunderbolt_II_aircraft_undergoes_scheduled_maintenance_Dec._30%2C_2013%2C_at_Bagram_Airfield%2C_Afghanistan_131230-F-KB808-124.jpg/1920px-A_U.S._Air_Force_A-10_Thunderbolt_II_aircraft_undergoes_scheduled_maintenance_Dec._30%2C_2013%2C_at_Bagram_Airfield%2C_Afghanistan_131230-F-KB808-124.jpg
+    Licence  : Public domain (U.S. Air Force)   Author: U.S. military photographer (work of the U.S. federal government)
+- assets/images/jack_a10_operator.jpg
+    Title    : File:U.S. Air Force Senior Airman Larry Webb, a crew chief with the 455th Expeditionary Maintenance Squadron, jacks up an A-10 Thunderbolt II aircraft during scheduled maintenance Dec. 30, 2013, at Bagram Airfield 131230-F-KB808-078.jpg
+    Page     : https://commons.wikimedia.org/wiki/File:U.S._Air_Force_Senior_Airman_Larry_Webb%2C_a_crew_chief_with_the_455th_Expeditionary_Maintenance_Squadron%2C_jacks_up_an_A-10_Thunderbolt_II_aircraft_during_scheduled_maintenance_Dec._30%2C_2013%2C_at_Bagram_Airfield_131230-F-KB808-078.jpg
+    Download : https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/U.S._Air_Force_Senior_Airman_Larry_Webb%2C_a_crew_chief_with_the_455th_Expeditionary_Maintenance_Squadron%2C_jacks_up_an_A-10_Thunderbolt_II_aircraft_during_scheduled_maintenance_Dec._30%2C_2013%2C_at_Bagram_Airfield_131230-F-KB808-078.jpg/1920px-U.S._Air_Force_Senior_Airman_Larry_Webb%2C_a_crew_chief_with_the_455th_Expeditionary_Maintenance_Squadron%2C_jacks_up_an_A-10_Thunderbolt_II_aircraft_during_scheduled_maintenance_Dec._30%2C_2013%2C_at_Bagram_Airfield_131230-F-KB808-078.jpg
+    Licence  : Public domain (U.S. Air Force)   Author: U.S. military photographer (work of the U.S. federal government)
+- assets/images/jack_c130.jpg
+    Title    : File:Maintainers keep C-130J Super Hercules flying in Afghanistan 141103-F-LX971-038.jpg
+    Page     : https://commons.wikimedia.org/wiki/File:Maintainers_keep_C-130J_Super_Hercules_flying_in_Afghanistan_141103-F-LX971-038.jpg
+    Download : https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Maintainers_keep_C-130J_Super_Hercules_flying_in_Afghanistan_141103-F-LX971-038.jpg/1920px-Maintainers_keep_C-130J_Super_Hercules_flying_in_Afghanistan_141103-F-LX971-038.jpg
+    Licence  : Public domain (U.S. Air Force)   Author: U.S. military photographer (work of the U.S. federal government)
+- assets/images/jack_f16_team.jpg
+    Title    : File:U.S. Air Force crew chiefs with the 510th Aircraft Maintenance Unit (AMXU) use jack stands to raise an F-16 Fighting Falcon aircraft May 13, 2013, at Aviano Air Base in Italy 130513-F-AI558-208.jpg
+    Page     : https://commons.wikimedia.org/wiki/File:U.S._Air_Force_crew_chiefs_with_the_510th_Aircraft_Maintenance_Unit_%28AMXU%29_use_jack_stands_to_raise_an_F-16_Fighting_Falcon_aircraft_May_13%2C_2013%2C_at_Aviano_Air_Base_in_Italy_130513-F-AI558-208.jpg
+    Download : https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/U.S._Air_Force_crew_chiefs_with_the_510th_Aircraft_Maintenance_Unit_%28AMXU%29_use_jack_stands_to_raise_an_F-16_Fighting_Falcon_aircraft_May_13%2C_2013%2C_at_Aviano_Air_Base_in_Italy_130513-F-AI558-208.jpg/1920px-U.S._Air_Force_crew_chiefs_with_the_510th_Aircraft_Maintenance_Unit_%28AMXU%29_use_jack_stands_to_raise_an_F-16_Fighting_Falcon_aircraft_May_13%2C_2013%2C_at_Aviano_Air_Base_in_Italy_130513-F-AI558-208.jpg
+    Licence  : Public domain (U.S. Air Force)   Author: U.S. military photographer (work of the U.S. federal government)
+- assets/images/jack_lancaster_1.jpg
+    Title    : File:Lancaster PA474 on Jacks MOD 45168244.jpg
+    Page     : https://commons.wikimedia.org/wiki/File:Lancaster_PA474_on_Jacks_MOD_45168244.jpg
+    Download : https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Lancaster_PA474_on_Jacks_MOD_45168244.jpg/1920px-Lancaster_PA474_on_Jacks_MOD_45168244.jpg
+    Licence  : OGL v1.0 (UK MOD, Crown copyright)   Author: SAC Ben Mayfield, UK Ministry of Defence
+- assets/images/jack_lancaster_2.jpg
+    Title    : File:Lancaster PA474 on Jacks MOD 45168245.jpg
+    Page     : https://commons.wikimedia.org/wiki/File:Lancaster_PA474_on_Jacks_MOD_45168245.jpg
+    Download : https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Lancaster_PA474_on_Jacks_MOD_45168245.jpg/1280px-Lancaster_PA474_on_Jacks_MOD_45168245.jpg
+    Licence  : OGL v1.0 (UK MOD, Crown copyright)   Author: SAC Ben Mayfield, UK Ministry of Defence
+- assets/images/jack_e2c_lifted.jpg
+    Title    : File:U.S. Navy Aviation Electronics Technician 3rd Class Zachariah Roberts, assigned to Airborne Early Warning Squadron (VAW) 126, maintains slack on tie-down chains while an E-2C Hawkeye aircraft is lifted on jacks 140118-N-ZG705-020.jpg
+    Page     : https://commons.wikimedia.org/wiki/File:U.S._Navy_Aviation_Electronics_Technician_3rd_Class_Zachariah_Roberts%2C_assigned_to_Airborne_Early_Warning_Squadron_%28VAW%29_126%2C_maintains_slack_on_tie-down_chains_while_an_E-2C_Hawkeye_aircraft_is_lifted_on_jacks_140118-N-ZG705-020.jpg
+    Download : https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/U.S._Navy_Aviation_Electronics_Technician_3rd_Class_Zachariah_Roberts%2C_assigned_to_Airborne_Early_Warning_Squadron_%28VAW%29_126%2C_maintains_slack_on_tie-down_chains_while_an_E-2C_Hawkeye_aircraft_is_lifted_on_jacks_140118-N-ZG705-020.jpg/1920px-U.S._Navy_Aviation_Electronics_Technician_3rd_Class_Zachariah_Roberts%2C_assigned_to_Airborne_Early_Warning_Squadron_%28VAW%29_126%2C_maintains_slack_on_tie-down_chains_while_an_E-2C_Hawkeye_aircraft_is_lifted_on_jacks_140118-N-ZG705-020.jpg
+    Licence  : Public domain (U.S. Navy)   Author: U.S. military photographer (work of the U.S. federal government)
+- assets/images/jack_p3_operator.jpg
+    Title    : File:US Navy 041116-N-5152P-001 Aviation Structural Mechanic 2nd Class Chad Albee of Macomb, Okla., jacks-up the airframe of a P-3C Orion aircraft.jpg
+    Page     : https://commons.wikimedia.org/wiki/File:US_Navy_041116-N-5152P-001_Aviation_Structural_Mechanic_2nd_Class_Chad_Albee_of_Macomb%2C_Okla.%2C_jacks-up_the_airframe_of_a_P-3C_Orion_aircraft.jpg
+    Download : https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/US_Navy_041116-N-5152P-001_Aviation_Structural_Mechanic_2nd_Class_Chad_Albee_of_Macomb%2C_Okla.%2C_jacks-up_the_airframe_of_a_P-3C_Orion_aircraft.jpg/1280px-US_Navy_041116-N-5152P-001_Aviation_Structural_Mechanic_2nd_Class_Chad_Albee_of_Macomb%2C_Okla.%2C_jacks-up_the_airframe_of_a_P-3C_Orion_aircraft.jpg
+    Licence  : Public domain (U.S. Navy)   Author: U.S. military photographer (work of the U.S. federal government)
+- assets/images/jack_ringlock.jpg
+    Title    : File:U.S. Navy Aviation Support Equipment Technician 3rd Class Brianna Rice removes a ring lock from an aircraft jack aboard the amphibious assault ship USS Kearsarge (LHD 3) in the Gulf of Aden Aug. 7, 2013 130807-N-XZ031-072.jpg
+    Page     : https://commons.wikimedia.org/wiki/File:U.S._Navy_Aviation_Support_Equipment_Technician_3rd_Class_Brianna_Rice_removes_a_ring_lock_from_an_aircraft_jack_aboard_the_amphibious_assault_ship_USS_Kearsarge_%28LHD_3%29_in_the_Gulf_of_Aden_Aug._7%2C_2013_130807-N-XZ031-072.jpg
+    Download : https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/U.S._Navy_Aviation_Support_Equipment_Technician_3rd_Class_Brianna_Rice_removes_a_ring_lock_from_an_aircraft_jack_aboard_the_amphibious_assault_ship_USS_Kearsarge_%28LHD_3%29_in_the_Gulf_of_Aden_Aug._7%2C_2013_130807-N-XZ031-072.jpg/1920px-U.S._Navy_Aviation_Support_Equipment_Technician_3rd_Class_Brianna_Rice_removes_a_ring_lock_from_an_aircraft_jack_aboard_the_amphibious_assault_ship_USS_Kearsarge_%28LHD_3%29_in_the_Gulf_of_Aden_Aug._7%2C_2013_130807-N-XZ031-072.jpg
+    Licence  : Public domain (U.S. Navy)   Author: U.S. military photographer (work of the U.S. federal government)
+- assets/images/jack_loadtest.jpg
+    Title    : File:US Navy 091211-N-2367S-174 Aviation Support Equipment Technician Airman Mark Purifoy, from New York, pulls a lever to load test a 12-ton hydraulic jack in hangar bay one aboard the Nimitz-class aircraft carrier USS John C. Sten.jpg
+    Page     : https://commons.wikimedia.org/wiki/File:US_Navy_091211-N-2367S-174_Aviation_Support_Equipment_Technician_Airman_Mark_Purifoy%2C_from_New_York%2C_pulls_a_lever_to_load_test_a_12-ton_hydraulic_jack_in_hangar_bay_one_aboard_the_Nimitz-class_aircraft_carrier_USS_John_C._Sten.jpg
+    Download : https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/US_Navy_091211-N-2367S-174_Aviation_Support_Equipment_Technician_Airman_Mark_Purifoy%2C_from_New_York%2C_pulls_a_lever_to_load_test_a_12-ton_hydraulic_jack_in_hangar_bay_one_aboard_the_Nimitz-class_aircraft_carrier_USS_John_C._Sten.jpg/1920px-US_Navy_091211-N-2367S-174_Aviation_Support_Equipment_Technician_Airman_Mark_Purifoy%2C_from_New_York%2C_pulls_a_lever_to_load_test_a_12-ton_hydraulic_jack_in_hangar_bay_one_aboard_the_Nimitz-class_aircraft_carrier_USS_John_C._Sten.jpg
+    Licence  : Public domain (U.S. Navy)   Author: U.S. military photographer (work of the U.S. federal government)
+- assets/images/jack_maintaining.jpg
+    Title    : File:Maintaining the mission 150121-F-FV476-017.jpg
+    Page     : https://commons.wikimedia.org/wiki/File:Maintaining_the_mission_150121-F-FV476-017.jpg
+    Download : https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Maintaining_the_mission_150121-F-FV476-017.jpg/1920px-Maintaining_the_mission_150121-F-FV476-017.jpg
+    Licence  : Public domain (U.S. Air Force)   Author: Senior Airman Franklin Ramos, U.S. Air Force
+- assets/images/a320_hangar.jpg
+    Title    : File:Airbus A320-214 EC-KKT Vueling in Iberia Hangar.jpg
+    Page     : https://commons.wikimedia.org/wiki/File:Airbus_A320-214_EC-KKT_Vueling_in_Iberia_Hangar.jpg
+    Download : https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Airbus_A320-214_EC-KKT_Vueling_in_Iberia_Hangar.jpg/1920px-Airbus_A320-214_EC-KKT_Vueling_in_Iberia_Hangar.jpg
+    Licence  : CC BY 2.0   Author: FlightReal (via Flickr)
+- assets/images/a320neo_frontier.jpg
+    Title    : File:N304FR - Airbus A320-251N - Frontier Airlines.jpg
+    Page     : https://commons.wikimedia.org/wiki/File:N304FR_-_Airbus_A320-251N_-_Frontier_Airlines.jpg
+    Download : https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/N304FR_-_Airbus_A320-251N_-_Frontier_Airlines.jpg/1280px-N304FR_-_Airbus_A320-251N_-_Frontier_Airlines.jpg
+    Licence  : CC BY 2.0   Author: Colin Brown Photography (via Flickr)
+    Note     : photographer's signature cropped out (permitted under CC BY 2.0; attribution kept).  Downloaded but NOT used in the final cut.
+
+== VIDEO FOOTAGE (assets/videos/) ==
+- assets/videos/a220_takeoff.webm
+    Title    : File:Swiss Airbus A220-100 (HB-JBA) during takeoff at LCY towards ZRH.webm
+    Page     : https://commons.wikimedia.org/wiki/File:Swiss_Airbus_A220-100_(HB-JBA)_during_takeoff_at_LCY_towards_ZRH.webm
+    Download : https://upload.wikimedia.org/wikipedia/commons/transcoded/0/06/Swiss_Airbus_A220-100_%28HB-JBA%29_during_takeoff_at_LCY_towards_ZRH.webm/Swiss_Airbus_A220-100_%28HB-JBA%29_during_takeoff_at_LCY_towards_ZRH.webm.1080p.vp9.webm
+    Licence  : CC0 1.0 (public domain dedication)   Author: TheFrog001
+    Used     : source 14.2-20.2 s, cropped, in scene 18 (106.4-111.04 s).
+
+Tried but not obtained (Wikimedia rate-limited the original file, HTTP 429): File:Thai AirAsia X 1st Airbus A330neo(A330-900) HS-XJB Takeoff from NRT 16R.ogv (CC BY-SA 4.0).
+
+== FONTS (assets/fonts/) ==
+- Kantumruy Pro (variable)  https://raw.githubusercontent.com/google/fonts/main/ofl/kantumruypro/KantumruyPro%5Bwght%5D.ttf   SIL OFL 1.1
+- Noto Sans Khmer (variable) https://raw.githubusercontent.com/google/fonts/main/ofl/notosanskhmer/NotoSansKhmer%5Bwdth%2Cwght%5D.ttf   SIL OFL 1.1
+- Montserrat (variable)      https://raw.githubusercontent.com/google/fonts/main/ofl/montserrat/Montserrat%5Bwght%5D.ttf   SIL OFL 1.1
+- DejaVu Sans Bold (system copy, /usr/share/fonts/truetype/dejavu/)   Bitstream Vera / DejaVu licence (free)
+
+== MUSIC & SOUND EFFECTS ==
+- assets/music/bg_music.wav and assets/sound_effects/*.wav are ORIGINAL, synthesised in code by source/audio_design.py.
+  No third-party audio was used, so there is nothing to license.
+
+== NARRATION ==
+- audio.wav : the user-supplied narration (uploaded as audio.mp3; the file is actually WAV/PCM 24 kHz mono). Used unedited except a 70 Hz high-pass and loudness normalisation.
+
+== TECHNICAL ILLUSTRATIONS ==
+- All blueprints, diagrams, icons and the exploded jack view are drawn in code (source/gfx.py, source/scenes.py).
+  Aircraft outlines are a GENERIC narrow-body twinjet, labelled 'illustrative / not to scale'. Jacking-point positions are
+  illustrative (nose + one per wing, as the narration states); exact locations and loads must be taken from the aircraft
+  manufacturer's AMM, chapter ATA 07 (Lifting & Shoring).
+
+== SPEECH RECOGNITION MODEL (used only to time the captions) ==
+- sokhapen/whisper-small-khmer-v6-ct2 (Hugging Face), run locally with faster-whisper.

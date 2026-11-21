@@ -1,0 +1,209 @@
+STORYBOARD — AIRCRAFT GENERAL PRACTICES: JACKING  (Khmer narration, 1920x1080, 30 fps)
+Audio: original narration (111.04 s). All times measured from the audio, not estimated.
+Music (all scenes): original synthesised cinematic-ambient score in D minor (i-VI-III-VII), sidechain-ducked ~20 dB under the voice, rising in pauses.
+Captions: Khmer subtitles for every narrated line (lower third), timed to the sentence boundaries.
+====================================================================================================
+SCENE 01  [  0.00 s ->   5.70 s]  (5.70 s)  renderer: hook
+  Voice-over       : តើអ្នកធ្លាប់ឆ្ងល់ទេថា យន្តហោះដ៏ធំមួយ អាចត្រូវបានលើកឱ្យផុតពីដីដោយរបៀបណា?
+  Main visual      : Hook question over a real A320 in a maintenance hangar
+  Background       : Photo a320_hangar (FlightReal, CC BY 2.0)
+  Technical illus. : -
+  Text animation   : Mask-wipe Khmer headline in 2 lines (white / gold); rising chevrons toward the gear
+  Camera           : Slow pull-out 1.18x -> 1.02x
+  Sound effects    : Music fade-in
+  Background music : score continues (ducked under voice)
+  Transition out   : Cut-in from black
+----------------------------------------------------------------------------------------------------
+SCENE 02  [  5.70 s ->   9.70 s]  (4.00 s)  renderer: weight_question
+  Voice-over       : តើឧបករណ៍អ្វីខ្លះ ដែលអាចទ្រទម្ងន់យន្តហោះដ៏ធ្ងន់នេះបាន?
+  Main visual      : 'What can hold this weight?'
+  Background       : Blueprint grid (navy #071426, cyan lines)
+  Technical illus. : Side-view blueprint of a generic narrow-body, draw-on; WEIGHT arrow; '?' under each wheel
+  Text animation   : WEIGHT / ទម្ងន់ slide; '?' pop
+  Camera           : Grid drift
+  Sound effects    : Pencil draw, impact on arrow, 2 pops, riser
+  Background music : score continues (ducked under voice)
+  Transition out   : Dissolve 0.4 s + whoosh
+----------------------------------------------------------------------------------------------------
+SCENE 03  [  9.70 s ->  11.85 s]  (2.15 s)  renderer: title_jacking
+  Voice-over       : ការងារនេះមានឈ្មោះថា Jacking។
+  Main visual      : Title reveal: JACKING
+  Background       : Blueprint grid dimmed
+  Technical illus. : -
+  Text animation   : Scale-in title + cyan light sweep; Khmer + 'ATA 07 · LIFTING & SHORING'
+  Camera           : Static
+  Sound effects    : Big impact on the spoken word 'Jacking'
+  Background music : score continues (ducked under voice)
+  Transition out   : Dissolve + whoosh
+----------------------------------------------------------------------------------------------------
+SCENE 04  [ 11.85 s ->  17.60 s]  (5.75 s)  renderer: aircraft_jack
+  Voice-over       : វាគឺជាដំណើរការលើកយន្តហោះចេញពីដី ដោយប្រើឧបករណ៍ពិសេសហៅថា Aircraft Jack។
+  Main visual      : What an Aircraft Jack is
+  Background       : Photo jack_lancaster_2 (tripod jacks under a wing, UK MOD, OGL)
+  Technical illus. : Exploded view of a generic tripod jack (pad, screw & lock nut, ram, cylinder, legs) collapsing into assembly
+  Text animation   : Part labels with leader lines; AIRCRAFT JACK chip exactly at 16.17 s
+  Camera           : Ken Burns on photo; parts slide together
+  Sound effects    : Pencil draw, mechanical clunk, beep on label
+  Background music : score continues (ducked under voice)
+  Transition out   : Dissolve + whoosh
+----------------------------------------------------------------------------------------------------
+SCENE 05  [ 17.60 s ->  25.25 s]  (7.65 s)  renderer: lift_animation
+  Voice-over       : គោលបំណងគឺធ្វើឱ្យកង់យន្តហោះ ឬ Landing Gear Wheels
+                     ផុតពីផ្ទៃដី ដើម្បីអាចធ្វើការត្រួតពិនិត្យ និងថែទាំបាន។
+  Main visual      : Jacks lift the aircraft; wheels leave the ground
+  Background       : Blueprint grid
+  Technical illus. : Side view: jacks extend, oleo struts extend first, then wheels lift; CLEARANCE dimension
+  Text animation   : LANDING GEAR WHEELS chip at 19.44 s; 'WHEELS OFF THE GROUND'; INSPECTION / MAINTENANCE chips
+  Camera           : Static camera, animated geometry
+  Sound effects    : Hydraulic pump x2, beep
+  Background music : score continues (ducked under voice)
+  Transition out   : Dissolve + whoosh
+----------------------------------------------------------------------------------------------------
+SCENE 06  [ 25.25 s ->  27.65 s]  (2.40 s)  renderer: why
+  Voice-over       : ប៉ុន្តែ ហេតុអ្វីបានជាត្រូវលើកយន្តហោះ?
+  Main visual      : 'Why lift the aircraft?'
+  Background       : Photo jack_c130 (C-130J on jacks, USAF, PD)
+  Technical illus. : -
+  Text animation   : WHY? back-out scale; Khmer question
+  Camera           : Slow push-in
+  Sound effects    : Impact
+  Background music : score continues (ducked under voice)
+  Transition out   : Dissolve + whoosh
+----------------------------------------------------------------------------------------------------
+SCENE 07  [ 27.65 s ->  40.10 s]  (12.45 s)  renderer: maintenance_tasks
+  Voice-over       : គឺដើម្បីអនុវត្តការងារថែទាំសំខាន់ៗ ដូចជា ការត្រួតពិនិត្យ Landing Gear ការដោះប្ដូរកង់
+                     និងសំបកកង់ ការត្រួតពិនិត្យប្រព័ន្ធហ្វ្រាំង និងការសាកល្បងប្រព័ន្ធបត់-លាតជើងទម្រ។
+  Main visual      : Four maintenance tasks
+  Background       : Photo jack_a10_operator, darkened
+  Technical illus. : Line icons: gear, wheel, brake disc, retraction arc (draw-on)
+  Text animation   : 2x2 cards slide up as each task is spoken; active card highlighted gold
+  Camera           : Slow push
+  Sound effects    : Click per card
+  Background music : score continues (ducked under voice)
+  Transition out   : Dissolve + whoosh
+----------------------------------------------------------------------------------------------------
+SCENE 08  [ 40.10 s ->  51.95 s]  (11.85 s)  renderer: jacking_points
+  Voice-over       : អ្វីដែលសំខាន់បំផុត គឺទីតាំងដែលត្រូវដាក់ Jack។ ចំណុចទាំងនេះហៅថា Jacking Points។
+                     ជាទូទៅ យន្តហោះមួយចំនួនប្រើចំណុចលើកនៅផ្នែកច្រមុះ និងចំណុចពីរនៅតំបន់ស្លាបខាងឆ្វេង និងស្តាំ។
+  Main visual      : Jacking points: nose + left/right wing
+  Background       : Blueprint grid
+  Technical illus. : Plan-view blueprint (illustrative), station ticks; pulsing gold points; '3 POINTS' counter
+  Text animation   : JACKING POINTS title at 43.36 s; FWD/LEFT/RIGHT chips as spoken
+  Camera           : Slow zoom 1.0 -> 1.06
+  Sound effects    : Pencil draw, click, pop per point
+  Background music : score continues (ducked under voice)
+  Transition out   : Dissolve + whoosh
+----------------------------------------------------------------------------------------------------
+SCENE 09  [ 51.95 s ->  56.85 s]  (4.90 s)  renderer: load_path
+  Voice-over       : ចំណុចទាំងនេះត្រូវបានរចនាឡើង ដើម្បីទទួលបន្ទុកពីឧបករណ៍លើក។
+  Main visual      : Points are designed to take the load
+  Background       : Blueprint + photo jack_p3_operator (US Navy, PD)
+  Technical illus. : Cross-section: airframe, jacking pad, jack head rising; LOAD (red) and SUPPORT (gold) arrows
+  Text animation   : DESIGNED TO TAKE THE LOAD chip
+  Camera           : Ken Burns on photo
+  Sound effects    : Draw, hydraulic, impact, beep
+  Background music : score continues (ducked under voice)
+  Transition out   : Dissolve + whoosh
+----------------------------------------------------------------------------------------------------
+SCENE 10  [ 56.85 s ->  61.10 s]  (4.25 s)  renderer: not_just_lift
+  Voice-over       : ការលើកយន្តហោះ មិនមែនគ្រាន់តែដាក់ Jack ហើយចាប់ផ្តើមលើកនោះទេ។
+  Main visual      : Not just 'place jack -> lift'
+  Background       : Photo jack_f16_team (USAF, PD)
+  Technical illus. : -
+  Text animation   : Kinetic strike-through in red, then PREPARE FIRST wipe in gold
+  Camera           : Pull-out
+  Sound effects    : Click on strike, impact
+  Background music : score continues (ducked under voice)
+  Transition out   : Dissolve + whoosh
+----------------------------------------------------------------------------------------------------
+SCENE 11  [ 61.10 s ->  67.40 s]  (6.30 s)  renderer: checklist
+  Voice-over       : ត្រូវពិនិត្យទម្ងន់យន្តហោះ សមត្ថភាពរបស់ Jack លក្ខខណ្ឌខ្យល់ និងស្ថានភាពផ្ទៃដីជាមុន។
+  Main visual      : Pre-jacking checks
+  Background       : Blueprint + photo jack_e2c_lifted (US Navy, PD)
+  Technical illus. : Icons: weight, jack, wind, ground
+  Text animation   : Rows slide in on each spoken item (61.4 / 62.8 / 64.45 / 65.6 s) and tick
+  Camera           : Ken Burns on photo
+  Sound effects    : Digital beep per tick
+  Background music : score continues (ducked under voice)
+  Transition out   : Dissolve + whoosh
+----------------------------------------------------------------------------------------------------
+SCENE 12  [ 67.40 s ->  71.85 s]  (4.45 s)  renderer: chocks_equipment
+  Voice-over       : ជាពិសេស ត្រូវប្រើ Wheel Chock និងពិនិត្យស្ថានភាពឧបករណ៍។
+  Main visual      : Wheel chocks + equipment check
+  Background       : Blueprint + photo jack_loadtest (12-ton jack load test, US Navy, PD)
+  Technical illus. : Wheel with two chocks sliding in
+  Text animation   : WHEEL CHOCKS chip at 68.43 s; EQUIPMENT CHECK at 69.7 s
+  Camera           : Photo slides in
+  Sound effects    : Mechanical clunk, click
+  Background music : score continues (ducked under voice)
+  Transition out   : Dissolve + whoosh
+----------------------------------------------------------------------------------------------------
+SCENE 13  [ 71.85 s ->  74.85 s]  (3.00 s)  renderer: safety_first
+  Voice-over       : សុវត្ថិភាព តែងតែជាអាទិភាពទីមួយ។
+  Main visual      : Safety is priority #1
+  Background       : Photo jack_maintaining ('ACFT ON JACKS' cone, USAF, PD)
+  Technical illus. : Hazard stripe bar
+  Text animation   : សុវត្ថិភាព impact; PRIORITY #1 wipe
+  Camera           : Push-in on cone
+  Sound effects    : Impact + click
+  Background music : score continues (ducked under voice)
+  Transition out   : Dissolve + whoosh
+----------------------------------------------------------------------------------------------------
+SCENE 14  [ 74.85 s ->  80.25 s]  (5.40 s)  renderer: level_weigh_title
+  Voice-over       : ក្រោយពីការលើកយន្តហោះ យើងក៏ត្រូវយល់ដឹងអំពី Leveling និង Weighing ផងដែរ។
+  Main visual      : Introduce Leveling & Weighing
+  Background       : Photo jack_lancaster_1 (Lancaster on jacks, UK MOD, OGL)
+  Technical illus. : -
+  Text animation   : Two words pop in as spoken
+  Camera           : Slow push
+  Sound effects    : Pop x2
+  Background music : score continues (ducked under voice)
+  Transition out   : Dissolve + whoosh
+----------------------------------------------------------------------------------------------------
+SCENE 15  [ 80.25 s ->  85.70 s]  (5.45 s)  renderer: leveling
+  Voice-over       : Leveling គឺជាការធ្វើឱ្យយន្តហោះស្ថិតនៅក្នុងកម្រិតយោង ដែលក្រុមហ៊ុនផលិតកំណត់។
+  Main visual      : Leveling to the manufacturer's reference
+  Background       : Blueprint grid
+  Technical illus. : Side view rotates from 3.2° to 0.0°; dashed reference line; spirit-level vial (bubble centres)
+  Text animation   : Angle read-out counts to 0.0°; LEVEL chip
+  Camera           : Static
+  Sound effects    : Pencil draw, beep at level
+  Background music : score continues (ducked under voice)
+  Transition out   : Dissolve + whoosh
+----------------------------------------------------------------------------------------------------
+SCENE 16  [ 85.70 s ->  96.35 s]  (10.65 s)  renderer: weighing
+  Voice-over       : ចំណែក Weighing គឺជាការថ្លឹងទម្ងន់យន្តហោះ ដើម្បីកំណត់ Weight និង Center of Gravity
+                     ឬ CG ដែលមានសារៈសំខាន់ចំពោះសុវត្ថិភាពនៃការហោះហើរ។
+  Main visual      : Weighing -> Weight and Center of Gravity
+  Background       : Blueprint grid
+  Technical illus. : Aircraft on nose + main scales; datum line; arms; CG symbol drops in
+  Text animation   : Formulas W = W₁+W₂+W₃ and CG = Σ(W×arm)÷W wipe in as spoken (symbolic, no invented numbers)
+  Camera           : Static
+  Sound effects    : Draw, clicks, pop on CG
+  Background music : score continues (ducked under voice)
+  Transition out   : Dissolve + whoosh
+----------------------------------------------------------------------------------------------------
+SCENE 17  [ 96.35 s -> 106.40 s]  (10.05 s)  renderer: recap
+  Voice-over       : Jacking មិនមែនគ្រាន់តែជាការលើកយន្តហោះទេ វាជាផ្នែកមួយដ៏សំខាន់នៃ
+                     Aircraft Maintenance ដែលទាមទារចំណេះដឹង ភាពម៉ត់ចត់ និងការគោរពសុវត្ថិភាព។
+  Main visual      : Recap: knowledge, precision, safety
+  Background       : Photo montage: jack_a10_wide -> jack_c130 -> a320_hangar
+  Technical illus. : -
+  Text animation   : MORE THAN JUST LIFTING; AIRCRAFT MAINTENANCE; three value cards pop on each spoken word
+  Camera           : Ken Burns + cross-dissolves
+  Sound effects    : Pops + impact, riser
+  Background music : score continues (ducked under voice)
+  Transition out   : Dissolve + whoosh
+----------------------------------------------------------------------------------------------------
+SCENE 18  [106.40 s -> 111.04 s]  (4.64 s)  renderer: outro
+  Voice-over       : ព្រោះសុវត្ថិភាពនៃការហោះហើរ ចាប់ផ្តើមពីការថែទាំដ៏ត្រឹមត្រូវ។
+  Main visual      : Closing line over real takeoff footage
+  Background       : Video: Swiss Airbus A220-100 takeoff, London City (TheFrog001, CC0)
+  Technical illus. : -
+  Text animation   : Two Khmer lines wipe in; English tagline; end slate 'AIRCRAFT GENERAL PRACTICES · JACKING'
+  Camera           : Cropped zoom on the moving aircraft
+  Sound effects    : Whoosh, music resolves
+  Background music : score continues (ducked under voice)
+  Transition out   : Fade to navy end slate
+----------------------------------------------------------------------------------------------------
+KEYWORD CUES (s): jacking_word=9.95, aircraft_jack=16.17, gear_wheels=19.44, lift_off=21.36, task1=30.6, task2=32.9, task3=35.3, task4=37.7, jp_title=43.36, jp_nose=47.6, jp_left=50.1, jp_right=50.9, load=52.1, not_just=57.13, prepare=59.7, chk_weight=61.4, chk_capacity=62.8, chk_wind=64.45, chk_ground=65.6, chock=68.43, equipment=69.7, safety=72.01, priority=73.05, leveling_word=76.6, weighing_word=78.4, leveling=80.45, weighing=85.87, weight_cg=88.84, cg=91.56, maint=101.05, knowledge=102.4, precision=103.85, safety2=105.0, outro=106.58
