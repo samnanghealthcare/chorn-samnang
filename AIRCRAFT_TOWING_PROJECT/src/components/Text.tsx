@@ -95,7 +95,7 @@ export const Headline: React.FC<{atS: number; title: string; kh?: string; x?: nu
   const p = prog(frame, atS, 0.6, easeOut);
   const bar = prog(frame, atS, 0.5);
   return (
-    <div style={{position: 'absolute', left: x, top: y}}>
+    <div style={{position: 'absolute', left: x - 40, top: y - 30, padding: '30px 120px 26px 40px', background: `linear-gradient(90deg, rgba(4,15,31,${0.85 * p}) 0%, rgba(4,15,31,${0.6 * p}) 70%, rgba(4,15,31,0) 100%)`}}>
       <div style={{width: 160 * bar, height: 6, background: C.gold, marginBottom: 18}} />
       <div style={{fontFamily: FONT.title, fontWeight: 900, fontSize: size, color, letterSpacing: 2, opacity: p, transform: `translateY(${(1 - p) * 30}px)`, textShadow: '0 4px 24px rgba(0,0,0,0.6)'}}>{title}</div>
       {kh && <div style={{fontFamily: FONT.khmer, fontWeight: 500, fontSize: size * 0.42, color: C.cyan, marginTop: 10, opacity: prog(frame, atS + 0.3, 0.5), lineHeight: 1.6}}>{kh}</div>}

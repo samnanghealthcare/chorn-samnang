@@ -278,7 +278,7 @@ const S04_Map: React.FC<{dur: number}> = () => (
 const S04_Tech: React.FC<{dur: number}> = ({dur}) => (
   <AbsoluteFill>
     <VideoBg src={A.vidMaint} trimS={30} durS={dur} zoom={[1.08, 1.0]} dark={0.35} />
-    <TechLabel x={980} y={520} dx={160} dy={-150} atS={0.5} title="TECHNICIANS" sub="អ្នកបច្ចេកទេស" size={28} />
+    <TechLabel x={1200} y={790} dx={160} dy={-170} atS={0.5} title="TECHNICIANS" sub="អ្នកបច្ចេកទេស" size={28} />
     <Tag text="TECHNICAL SERVICE" atS={0.3} />
     <Credit text="Video: U.S. Air Force, public domain · Wikimedia Commons" />
   </AbsoluteFill>
@@ -297,7 +297,7 @@ const S04_Cycle: React.FC<{dur: number}> = () => (
 const S05_Tug: React.FC<{dur: number}> = ({dur}) => (
   <AbsoluteFill>
     <KenBurns src={A.imgTug2} durS={dur} kb={{s0: 1.04, s1: 1.14, x0: 20, x1: -30}} dark={0.3} />
-    <TechLabel x={900} y={700} dx={150} dy={-140} atS={0.8} title="AIRCRAFT TUG" size={30} />
+    <TechLabel x={700} y={760} dx={150} dy={-160} atS={0.8} title="AIRCRAFT TUG" size={30} />
     <Tag text="CREW + AIRCRAFT TUG" atS={0.3} />
     <Credit text="Photo: Kolforn, CC BY-SA 4.0 · Wikimedia Commons" />
   </AbsoluteFill>
@@ -356,7 +356,7 @@ const S07_Gate: React.FC<{dur: number}> = ({dur}) => (
   <AbsoluteFill>
     <KenBurns src={A.imgGate} durS={dur} kb={{s0: 1.03, s1: 1.13, x0: 25, x1: -25}} dark={0.32} />
     <Tag text="BEFORE TAXI" atS={0.3} />
-    <TechLabel x={1300} y={420} dx={120} dy={-110} atS={1.6} title="TERMINAL" size={28} />
+    <TechLabel x={200} y={520} dx={140} dy={-150} atS={1.6} title="TERMINAL" size={28} />
     <Credit text="Photo: see ASSET_SOURCES.txt" />
   </AbsoluteFill>
 );
@@ -377,9 +377,9 @@ const S07_MapPush: React.FC<{dur: number}> = () => (
 const S07_Video: React.FC<{dur: number}> = ({dur}) => (
   <AbsoluteFill>
     <VideoBg src={A.vidPushback1} trimS={20} durS={dur} zoom={[1.02, 1.1]} dark={0.28} />
-    <Tag text="REAL OPERATION · PUSHBACK" atS={0.2} />
-    <TechLabel x={760} y={700} dx={-120} dy={-170} atS={0.8} title="AIRCRAFT TUG" size={28} />
-    <BigArrowLabel atS={2.3} text="REARWARD" x={1450} y={300} rot={180} />
+    <Tag text="PUSHBACK OPERATION" atS={0.2} />
+    <TechLabel x={300} y={790} dx={60} dy={-200} atS={0.8} title="AIRCRAFT TUG" size={28} />
+    <BigArrowLabel atS={2.3} text="REARWARD" x={1450} y={300} rot={90} />
     <TechLabel x={1150} y={760} dx={140} dy={-60} atS={5.0} title="GROUND CREW COORDINATION" size={26} color={C.gold} />
     <Credit text="Video: NutzerAusBerlin, CC0 · Wikimedia Commons" />
   </AbsoluteFill>

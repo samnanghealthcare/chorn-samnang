@@ -25,11 +25,11 @@ export const SectionTitle: React.FC<{num: number; title: string; kh: string; bg:
         <div style={{position: 'absolute', left: 620, top: 330}}>
           <div style={{fontFamily: FONT.mono, fontSize: 26, letterSpacing: 8, color: C.cyan, opacity: line}}>PURPOSE {String(num).padStart(2, '0')} / 05</div>
           <div style={{height: 4, width: 980 * line, background: `linear-gradient(90deg, ${C.gold}, rgba(245,184,46,0))`, margin: '16px 0 26px'}} />
-          <LetterReveal text={title} atS={0.35} size={112} spacing={3} stagger={0.03} />
+          <LetterReveal text={title} atS={0.35} size={title.length > 14 ? 84 : 112} spacing={3} stagger={0.03} />
           <div style={{fontFamily: FONT.khmer, fontWeight: 700, fontSize: 50, color: C.white, marginTop: 22, opacity: kp, transform: `translateY(${(1 - kp) * 20}px)`, lineHeight: 1.6}}>{kh}</div>
         </div>
         {icon && (
-          <div style={{position: 'absolute', right: 150, top: 300, opacity: kp, transform: `scale(${0.8 + 0.2 * kp})`}}>{icon}</div>
+          <div style={{position: 'absolute', right: 150, top: 640, opacity: kp, transform: `scale(${0.8 + 0.2 * kp})`}}>{icon}</div>
         )}
       </AbsoluteFill>
       <LightSweep atS={0.4} durS={1.3} opacity={0.35} />

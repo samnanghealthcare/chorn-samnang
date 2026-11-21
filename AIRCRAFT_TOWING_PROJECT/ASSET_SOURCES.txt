@@ -1,0 +1,60 @@
+AIRCRAFT GENERAL PRACTICES – AIRCRAFT TOWING
+Asset sources and licences
+=====================================================================
+
+CURRENT RENDER (output/AIRCRAFT_TOWING_DOCUMENTARY.mp4)
+---------------------------------------------------------------------
+No third-party photos or video clips are used in the current render.
+Wikimedia Commons (the only free-media site reachable from the build
+environment) refused downloads with HTTP 429 "robot policy", so every
+photo/video slot falls back to an original schematic illustration
+(src/graphics/Illustrated.tsx). The video contains no third-party
+imagery.
+
+ORIGINAL CONTENT (created for this project)
+---------------------------------------------------------------------
+- All motion graphics, technical illustrations, airport map, A320
+  schematic, tug/towbar/nose-gear diagram, turbofan X-ray / exploded
+  view, icons, cycle, iceberg and timeline: original SVG/CSS code in src/.
+- Background music and all sound effects: synthesised procedurally by
+  tools/generate_audio.py (numpy). No samples or third-party audio.
+- Narration: audio.source.wav, supplied by the project owner (unmodified,
+  only resampled to 48 kHz for the mix).
+
+FONTS (SIL Open Font License 1.1, files in public/assets/fonts/)
+---------------------------------------------------------------------
+- Kantumruy Pro (Khmer + Latin)  – npm @fontsource/kantumruy-pro 5.3.0
+- Inter                          – npm @fontsource/inter 5.2.6
+- JetBrains Mono                 – npm @fontsource/jetbrains-mono 5.2.6
+
+FACTS SHOWN ON SCREEN
+---------------------------------------------------------------------
+- A320 overall length 37.57 m, height 11.76 m:
+  Airbus, "A320 Aircraft Characteristics – Airport and Maintenance Planning".
+- ATA chapter 09 = Towing & Taxiing (ATA iSpec 2200 chapter numbering).
+- Airport map: generic schematic layout, not any real airport.
+- Turbofan: generic high-bypass illustration, not a specific engine model.
+
+SELECTED REAL MEDIA (to be added once downloads are possible)
+---------------------------------------------------------------------
+Planned slots in src/data/assets.ts. Run tools/check_assets.py after
+placing files in public/; the video then uses them automatically.
+
+1. Flughafen BER 20260623 Pushback Airbus A320-200 Austrian Airlines 01.webm
+   https://commons.wikimedia.org/wiki/File:Flughafen_BER_20260623_Pushback_Airbus_A320-200_Austrian_Airlines_01.webm
+   Author: NutzerAusBerlin · Licence: CC0  -> public/assets/videos/ber_pushback_01.mp4
+2. Flughafen BER 20260623 Pushback Airbus A320-200 Austrian Airlines 02.webm
+   https://commons.wikimedia.org/wiki/File:Flughafen_BER_20260623_Pushback_Airbus_A320-200_Austrian_Airlines_02.webm
+   Author: NutzerAusBerlin · Licence: CC0  -> public/assets/videos/ber_pushback_02.mp4
+3. 100th Maintenance Squadron isochronal inspection (954775).webm
+   https://commons.wikimedia.org/wiki/File:100th_Maintenance_Squadron_isochronal_inspection_(954775).webm
+   Author: U.S. Air Force · Licence: Public domain -> public/assets/videos/maint_100mxs.mp4
+4. GAMECO aircraft tug at CAN 20250901.jpg
+   https://commons.wikimedia.org/wiki/File:GAMECO_aircraft_tug_at_CAN_20250901.jpg
+   Author: JULIANISME · Licence: CC BY-SA 4.0 -> public/assets/images/tug_gameco.jpg
+5. 2017-12-15 Aircraft tug and Flybe aircraft, Norwich Airport.JPG
+   https://commons.wikimedia.org/wiki/File:2017-12-15_Aircraft_tug_and_Flybe_aircraft,_Norwich_Airport.JPG
+   Author: Kolforn · Licence: CC BY-SA 4.0 -> public/assets/images/tug_norwich.jpg
+6. A U.S. Marine ... secures a tow bar to a Tug Mid-Range Tow Tractor ... 130712-M-DB000-076.jpg
+   Author: Lance Cpl. Darien Bjorndal, USMC · Licence: Public domain -> public/assets/images/towbar_marine.jpg
+(.mp4 slots also need a "<file>.mp4.real" marker so placeholders can never be mistaken for real clips.)

@@ -2,6 +2,8 @@ import React from 'react';
 import {AbsoluteFill, Img, OffthreadVideo, interpolate, staticFile, useCurrentFrame, useVideoConfig} from 'remotion';
 import {C, FONT} from '../utils/theme';
 import {easeInOut, prog} from '../utils/anim';
+import {AVAILABLE, SUBJECT} from '../data/assets';
+import {Illustrated} from '../graphics/Illustrated';
 
 /* ---------- technical grid background ---------- */
 export const BlueprintGrid: React.FC<{opacity?: number; drift?: boolean; color?: string}> = ({opacity = 1, drift = true, color}) => {
@@ -61,6 +63,7 @@ export const Grade: React.FC<{dark?: number; bottom?: boolean}> = ({dark = 0.35,
 export type KB = {s0?: number; s1?: number; x0?: number; x1?: number; y0?: number; y1?: number};
 export const KenBurns: React.FC<{src: string; durS: number; kb?: KB; dark?: number; blur?: number; position?: string}> = ({src, durS, kb = {}, dark = 0.35, blur = 0, position = 'center'}) => {
   const frame = useCurrentFrame();
+  if (!AVAILABLE.has(src)) return <Illustrated subject={SUBJECT[src] ?? 'aircraft'} durS={durS} dark={dark} />;
   const p = prog(frame, 0, durS + 0.6, easeInOut);
   const s = interpolate(p, [0, 1], [kb.s0 ?? 1.04, kb.s1 ?? 1.14]);
   const x = interpolate(p, [0, 1], [kb.x0 ?? 0, kb.x1 ?? 0]);
@@ -80,6 +83,7 @@ export const KenBurns: React.FC<{src: string; durS: number; kb?: KB; dark?: numb
 export const VideoBg: React.FC<{src: string; trimS?: number; durS: number; rate?: number; zoom?: [number, number]; dark?: number; position?: string}> = ({src, trimS = 0, durS, rate = 1, zoom = [1.02, 1.1], dark = 0.3, position = 'center'}) => {
   const frame = useCurrentFrame();
   const {fps} = useVideoConfig();
+  if (!AVAILABLE.has(src)) return <Illustrated subject={SUBJECT[src] ?? 'aircraft'} durS={durS} dark={dark} />;
   const s = interpolate(frame / fps, [0, durS + 0.6], zoom, {extrapolateRight: 'clamp'});
   return (
     <AbsoluteFill style={{overflow: 'hidden', background: C.navyDeep}}>
@@ -114,6 +118,7 @@ export const LightSweep: React.FC<{atS: number; durS?: number; angle?: number; o
 };
 
 /* ---------- small caption: source / illustration disclaimer ---------- */
-export const Credit: React.FC<{text: string}> = ({text}) => (
+export const Credit: React.FC<{text: string}> = ({text}) =>
+  /^(Photo|Video)/.test(text) && AVAILABLE.size === 0 ? null : (
   <div style={{position: 'absolute', right: 40, top: 104, maxWidth: 760, textAlign: 'right', fontFamily: FONT.mono, fontSize: 14, color: 'rgba(255,255,255,0.6)', letterSpacing: 0.4, textShadow: '0 1px 4px rgba(0,0,0,0.8)'}}>{text}</div>
 );

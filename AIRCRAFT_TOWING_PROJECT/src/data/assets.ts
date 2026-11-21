@@ -14,3 +14,24 @@ export const A = {
   imgEngine: 'assets/engines/engine.jpg',
   imgNlg: 'assets/aircraft/nlg.jpg',
 };
+
+// Which real media files are present locally (written by tools/check_assets.py).
+import available from './available.json';
+export const AVAILABLE = new Set<string>(available as string[]);
+
+// Illustrated fallback subject for each slot (used when the real file is not available)
+export const SUBJECT: Record<string, 'tug' | 'hangar' | 'aircraft' | 'gate' | 'sunset' | 'engine' | 'pushback' | 'maintenance'> = {
+  [A.vidPushback1]: 'pushback',
+  [A.vidPushback2]: 'aircraft',
+  [A.vidMaint]: 'maintenance',
+  [A.imgTug]: 'tug',
+  [A.imgTug2]: 'tug',
+  [A.imgTowbar]: 'tug',
+  [A.imgHangar]: 'hangar',
+  [A.imgApron]: 'aircraft',
+  [A.imgGate]: 'gate',
+  [A.imgParked]: 'aircraft',
+  [A.imgSunset]: 'sunset',
+  [A.imgEngine]: 'engine',
+  [A.imgNlg]: 'tug',
+};

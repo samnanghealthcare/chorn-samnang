@@ -39,7 +39,7 @@ const SIDE_PATHS: {d: string; w?: number; c?: string; fill?: string}[] = [
   {d: 'M0,350 L1100,350', w: 1, c: 'rgba(53,212,232,0.5)'},
 ];
 
-export const A320Side: React.FC<{progress: number; color?: string; showDims?: boolean; dimProgress?: number; width?: number; glow?: boolean; highlightNLG?: number}> = ({progress, color = C.white, showDims = true, dimProgress = 1, width = 1500, glow = true, highlightNLG = 0}) => {
+export const A320Side: React.FC<{progress: number; color?: string; showDims?: boolean; dimProgress?: number; width?: number; glow?: boolean; highlightNLG?: number; children?: React.ReactNode; bodyFill?: string}> = ({progress, color = C.white, showDims = true, dimProgress = 1, width = 1500, glow = true, highlightNLG = 0, children, bodyFill}) => {
   const windows = [];
   for (let x = 196; x < 760; x += 15.2) {
     if (Math.abs(x - 476) < 14) continue;
@@ -47,6 +47,9 @@ export const A320Side: React.FC<{progress: number; color?: string; showDims?: bo
   }
   return (
     <svg viewBox="-10 0 1130 400" width={width} style={{overflow: 'visible', filter: glow ? 'drop-shadow(0 0 6px rgba(53,212,232,0.55))' : undefined}}>
+      {bodyFill && <path d={SIDE_PATHS[0].d} fill={bodyFill} />}
+      {bodyFill && <path d={SIDE_PATHS[2].d + ' Z'} fill={bodyFill} />}
+      {children}
       {SIDE_PATHS.map((p, i) => {
         const local = Math.max(0, Math.min(1, progress * 1.6 - i * 0.03));
         return (
