@@ -1,0 +1,24 @@
+{
+  "name": "aviation-motion-graphics",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Khmer educational motion-graphics documentary: ATA 20 Standard Practices & ATA 06 Dimensions and Areas",
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "render": "bash scripts/sync_public.sh && remotion render src/index.ts AviationDoc output/render_raw.mp4 --codec=h264 --crf=18 --muted --concurrency=4 --browser-executable=/opt/pw-browsers/chromium_headless_shell-1243/chrome-headless-shell-linux64/chrome-headless-shell",
+    "build": "npm run render && bash scripts/finalize.sh"
+  },
+  "dependencies": {
+    "@fontsource/inter": "^5.1.0",
+    "@fontsource/jetbrains-mono": "^5.1.0",
+    "@fontsource/kantumruy-pro": "^5.1.0",
+    "@fontsource/noto-sans-khmer": "^5.1.0",
+    "@remotion/cli": "^4.0.250",
+    "@remotion/media-utils": "^4.0.250",
+    "@types/react": "^18.3.12",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.250",
+    "typescript": "^5.6.3"
+  }
+}

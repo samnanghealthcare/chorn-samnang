@@ -1,0 +1,144 @@
+ASSET SOURCES & ATTRIBUTION
+All media below were downloaded from Wikimedia Commons under the licence shown.
+Usage in this educational video complies with each licence (attribution given; CC BY-SA items are shared alike).
+
+- assets/images/a320_takeoff.jpg
+    Title:   File:F-GKXV AIRFRANCE, Airbus A320 takeoff from Schiphol (AMS - EHAM), The Netherlands, 16may2014, pic-1.JPG
+    Author:  Alf van Beem
+    Licence: CC0  http://creativecommons.org/publicdomain/zero/1.0/deed.en
+    Source:  https://commons.wikimedia.org/wiki/File:F-GKXV_AIRFRANCE,_Airbus_A320_takeoff_from_Schiphol_(AMS_-_EHAM),_The_Netherlands,_16may2014,_pic-1.JPG
+    Used for: Opening hero shot
+
+- assets/engine/v2500_on_a320.jpg
+    Title:   File:IAE V2500 on a Lufthansa A320 (1).jpg
+    Author:  Olivier Cleynen
+    Licence: CC BY 4.0  https://creativecommons.org/licenses/by/4.0
+    Source:  https://commons.wikimedia.org/wiki/File:IAE_V2500_on_a_Lufthansa_A320_(1).jpg
+    Used for: Engine scene - IAE V2500 installed on A320
+
+- assets/engine/v2500_cutaway.jpg
+    Title:   File:IAE V2500 engine cutaway model 2010 The Sky and Space.jpg
+    Author:  Morio
+    Licence: CC BY-SA 3.0  https://creativecommons.org/licenses/by-sa/3.0
+    Source:  https://commons.wikimedia.org/wiki/File:IAE_V2500_engine_cutaway_model_2010_The_Sky_and_Space.jpg
+    Used for: Engine cutaway (real museum model)
+
+- assets/images/hangar_maintenance.jpg
+    Title:   File:Aircraft Maintenance, AMN, Teuge Airport.jpg
+    Author:  Peter F.A. van de Noort
+    Licence: CC BY-SA 4.0  https://creativecommons.org/licenses/by-sa/4.0
+    Source:  https://commons.wikimedia.org/wiki/File:Aircraft_Maintenance,_AMN,_Teuge_Airport.jpg
+    Used for: Maintenance hangar B-roll still
+
+- assets/images/technician.jpg
+    Title:   File:Avionics Technician Maintains Aircraft Systems (9870935).jpg
+    Author:  U.S. Air Force AFCENT by Master Sgt. Juliet Louden
+    Licence: Public domain  
+    Source:  https://commons.wikimedia.org/wiki/File:Avionics_Technician_Maintains_Aircraft_Systems_(9870935).jpg
+    Used for: Aircraft technician
+
+- assets/images/landing_gear.jpg
+    Title:   File:Airbus A318 Landing Gear (8604009277).jpg
+    Author:  Joao Carlos Medau from Campinas, Brazil
+    Licence: CC BY 2.0  https://creativecommons.org/licenses/by/2.0
+    Source:  https://commons.wikimedia.org/wiki/File:Airbus_A318_Landing_Gear_(8604009277).jpg
+    Used for: Landing gear / component location
+
+- assets/images/torque_wrench.jpg
+    Title:   File:Click-torque-wrench.jpg
+    Author:  No machine-readable author provided. Heron2 assumed (based on copyright claims).
+    Licence: CC BY-SA 3.0  http://creativecommons.org/licenses/by-sa/3.0/
+    Source:  https://commons.wikimedia.org/wiki/File:Click-torque-wrench.jpg
+    Used for: Torque wrench scene
+
+- assets/images/a320_wing.jpg
+    Title:   File:A320 WingDetails 02.jpg
+    Author:  NatiSythen
+    Licence: CC BY-SA 3.0  https://creativecommons.org/licenses/by-sa/3.0
+    Source:  https://commons.wikimedia.org/wiki/File:A320_WingDetails_02.jpg
+    Used for: Wing area
+
+- assets/blueprint/a320_three_view.png
+    Title:   File:Airbus A320 v1.0.png
+    Author:  Julien.scavini
+    Licence: CC BY-SA 3.0  https://creativecommons.org/licenses/by-sa/3.0
+    Source:  https://commons.wikimedia.org/wiki/File:Airbus_A320_v1.0.png
+    Used for: A320 three-view drawing (blueprint / zoning base)
+
+- assets/illustrations/turbofan_operation.png
+    Title:   File:Turbofan operation.svg
+    Author:  K. Aainsqatsi
+    Licence: CC BY 2.5  https://creativecommons.org/licenses/by/2.5
+    Source:  https://commons.wikimedia.org/wiki/File:Turbofan_operation.svg
+    Used for: Turbofan operating principle diagram
+
+- assets/images/a320_lufthansa.jpg
+    Title:   File:Lufthansa Airbus A320-211 D-AIQT 01.jpg
+    Author:  Julian Herzog (Website)
+    Licence: CC BY 4.0  https://creativecommons.org/licenses/by/4.0
+    Source:  https://commons.wikimedia.org/wiki/File:Lufthansa_Airbus_A320-211_D-AIQT_01.jpg
+    Used for: Closing hero shot (A320 landing)
+
+- assets/images/corrosion_control.jpg
+    Title:   File:No Margin for Rust- Maintenance Keeps the Osprey Corrosion-Free (9815792).jpg
+    Author:  U.S. Air Force photo by Tech. Sgt. Benjamin Sutton
+    Licence: Public domain  
+    Source:  https://commons.wikimedia.org/wiki/File:No_Margin_for_Rust-_Maintenance_Keeps_the_Osprey_Corrosion-Free_(9815792).jpg
+    Used for: Corrosion protection (ATA 20)
+
+- assets/images/structural_repair.jpg
+    Title:   File:Aircraft structural maintenance Airmen make Barksdale aircraft strong 150820-F-VO743-074.jpg
+    Author:  Airman 1st Class Mozer Da Cunha
+    Licence: Public domain  
+    Source:  https://commons.wikimedia.org/wiki/File:Aircraft_structural_maintenance_Airmen_make_Barksdale_aircraft_strong_150820-F-VO743-074.jpg
+    Used for: Fasteners / structural repair (ATA 20)
+
+- assets/videos/a320_gate.mp4
+    Title:   File:Flughafen BER 20260623 Pushback Airbus A320-200 Austrian Airlines 01.webm
+    Author:  NutzerAusBerlin
+    Licence: CC0  http://creativecommons.org/publicdomain/zero/1.0/deed.en
+    Source:  https://commons.wikimedia.org/wiki/File:Flughafen_BER_20260623_Pushback_Airbus_A320-200_Austrian_Airlines_01.webm
+    Used for: Opening + closing footage (A320 at gate)
+
+- assets/videos/a320_approach.mp4
+    Title:   File:Airbus A 320-214, Bulgaria Air, LHR-SOF.webm
+    Author:  Spasimir Pilev (Спасимир)
+    Licence: CC BY-SA 3.0  https://creativecommons.org/licenses/by-sa/3.0
+    Source:  https://commons.wikimedia.org/wiki/File:Airbus_A_320-214,_Bulgaria_Air,_LHR-SOF.webm
+    Used for: Closing footage (A320 on approach)
+
+- assets/videos/maint_hands.mp4
+    Title:   File:100th Maintenance Squadron isochronal inspection (954775).webm
+    Author:  U.S. Air Force video by Senior Airman Sarah Spadie
+    Licence: Public domain  
+    Source:  https://commons.wikimedia.org/wiki/File:100th_Maintenance_Squadron_isochronal_inspection_(954775).webm
+    Used for: ATA 20 - maintenance work B-roll
+
+- assets/videos/maint_gear.mp4
+    Title:   File:100th Maintenance Squadron isochronal inspection (954775).webm
+    Author:  U.S. Air Force video by Senior Airman Sarah Spadie
+    Licence: Public domain  
+    Source:  https://commons.wikimedia.org/wiki/File:100th_Maintenance_Squadron_isochronal_inspection_(954775).webm
+    Used for: Inspection B-roll (landing gear)
+
+- assets/videos/maint_topwing.mp4
+    Title:   File:100th Maintenance Squadron isochronal inspection (954775).webm
+    Author:  U.S. Air Force video by Senior Airman Sarah Spadie
+    Licence: Public domain  
+    Source:  https://commons.wikimedia.org/wiki/File:100th_Maintenance_Squadron_isochronal_inspection_(954775).webm
+    Used for: Wing inspection example B-roll
+
+- assets/videos/rivet_work.mp4
+    Title:   File:386th AEW Aircraft Metals Specialists Perform Maintenance on a C-130 (993269).webm
+    Author:  U.S. Air Force video by Tech. Sgt. Andrew Schumann
+    Licence: Public domain  
+    Source:  https://commons.wikimedia.org/wiki/File:386th_AEW_Aircraft_Metals_Specialists_Perform_Maintenance_on_a_C-130_(993269).webm
+    Used for: Fasteners B-roll
+
+- assets/videos/access_panel.mp4
+    Title:   File:386th AEW Aircraft Metals Specialists Perform Maintenance on a C-130 (993269).webm
+    Author:  U.S. Air Force video by Tech. Sgt. Andrew Schumann
+    Licence: Public domain  
+    Source:  https://commons.wikimedia.org/wiki/File:386th_AEW_Aircraft_Metals_Specialists_Perform_Maintenance_on_a_C-130_(993269).webm
+    Used for: Work through an access opening B-roll
+

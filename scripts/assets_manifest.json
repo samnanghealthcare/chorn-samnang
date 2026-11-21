@@ -1,0 +1,131 @@
+[
+ {
+  "title": "File:F-GKXV AIRFRANCE, Airbus A320 takeoff from Schiphol (AMS - EHAM), The Netherlands, 16may2014, pic-1.JPG",
+  "dest": "assets/images/a320_takeoff.jpg",
+  "use": "Opening hero shot"
+ },
+ {
+  "title": "File:IAE V2500 on a Lufthansa A320 (1).jpg",
+  "dest": "assets/engine/v2500_on_a320.jpg",
+  "use": "Engine scene - IAE V2500 installed on A320"
+ },
+ {
+  "title": "File:IAE V2500 engine cutaway model 2010 The Sky and Space.jpg",
+  "dest": "assets/engine/v2500_cutaway.jpg",
+  "use": "Engine cutaway (real museum model)"
+ },
+ {
+  "title": "File:Aircraft Maintenance, AMN, Teuge Airport.jpg",
+  "dest": "assets/images/hangar_maintenance.jpg",
+  "use": "Maintenance hangar B-roll still"
+ },
+ {
+  "title": "File:Avionics Technician Maintains Aircraft Systems (9870935).jpg",
+  "dest": "assets/images/technician.jpg",
+  "use": "Aircraft technician"
+ },
+ {
+  "title": "File:Airbus A318 Landing Gear (8604009277).jpg",
+  "dest": "assets/images/landing_gear.jpg",
+  "use": "Landing gear / component location"
+ },
+ {
+  "title": "File:Click-torque-wrench.jpg",
+  "dest": "assets/images/torque_wrench.jpg",
+  "use": "Torque wrench scene"
+ },
+ {
+  "title": "File:A320 WingDetails 02.jpg",
+  "dest": "assets/images/a320_wing.jpg",
+  "use": "Wing area"
+ },
+ {
+  "title": "File:Airbus A320 v1.0.png",
+  "dest": "assets/blueprint/a320_three_view.png",
+  "use": "A320 three-view drawing (blueprint / zoning base)"
+ },
+ {
+  "title": "File:Turbofan operation.svg",
+  "dest": "assets/illustrations/turbofan_operation.png",
+  "width": 1920,
+  "use": "Turbofan operating principle diagram"
+ },
+ {
+  "title": "File:Lufthansa Airbus A320-211 D-AIQT 01.jpg",
+  "dest": "assets/images/a320_lufthansa.jpg",
+  "use": "Closing hero shot (A320 landing)"
+ },
+ {
+  "title": "File:No Margin for Rust- Maintenance Keeps the Osprey Corrosion-Free (9815792).jpg",
+  "dest": "assets/images/corrosion_control.jpg",
+  "use": "Corrosion protection (ATA 20)"
+ },
+ {
+  "title": "File:Aircraft structural maintenance Airmen make Barksdale aircraft strong 150820-F-VO743-074.jpg",
+  "dest": "assets/images/structural_repair.jpg",
+  "use": "Fasteners / structural repair (ATA 20)"
+ },
+ {
+  "title": "File:Flughafen BER 20260623 Pushback Airbus A320-200 Austrian Airlines 01.webm",
+  "dest": "assets/videos/a320_gate.mp4",
+  "video": true,
+  "src": "/tmp/claude-0/-home-user-chorn-samnang/6a45d9a2-ee68-513d-8541-ced6bdcc45e8/scratchpad/vid/Flughafen_BER_20260623_Pushback_Airbus_A320-200_Austrian_Airlines_01.webm.1080p.vp9.webm",
+  "ss": 2,
+  "t": 16,
+  "use": "Opening + closing footage (A320 at gate)"
+ },
+ {
+  "title": "File:Airbus A 320-214, Bulgaria Air, LHR-SOF.webm",
+  "dest": "assets/videos/a320_approach.mp4",
+  "video": true,
+  "src": "/tmp/claude-0/-home-user-chorn-samnang/6a45d9a2-ee68-513d-8541-ced6bdcc45e8/scratchpad/vid/Airbus_A_320-214%2C_Bulgaria_Air%2C_LHR-SOF.webm.1080p.vp9.webm",
+  "ss": 33,
+  "t": 11.8,
+  "use": "Closing footage (A320 on approach)"
+ },
+ {
+  "title": "File:100th Maintenance Squadron isochronal inspection (954775).webm",
+  "dest": "assets/videos/maint_hands.mp4",
+  "video": true,
+  "src": "/tmp/claude-0/-home-user-chorn-samnang/6a45d9a2-ee68-513d-8541-ced6bdcc45e8/scratchpad/vid/100th_Maintenance_Squadron_isochronal_inspection_%28954775%29.webm.1080p.vp9.webm",
+  "ss": 6.6,
+  "t": 4.6,
+  "use": "ATA 20 - maintenance work B-roll"
+ },
+ {
+  "title": "File:100th Maintenance Squadron isochronal inspection (954775).webm",
+  "dest": "assets/videos/maint_gear.mp4",
+  "video": true,
+  "src": "/tmp/claude-0/-home-user-chorn-samnang/6a45d9a2-ee68-513d-8541-ced6bdcc45e8/scratchpad/vid/100th_Maintenance_Squadron_isochronal_inspection_%28954775%29.webm.1080p.vp9.webm",
+  "ss": 30.8,
+  "t": 5,
+  "use": "Inspection B-roll (landing gear)"
+ },
+ {
+  "title": "File:100th Maintenance Squadron isochronal inspection (954775).webm",
+  "dest": "assets/videos/maint_topwing.mp4",
+  "video": true,
+  "src": "/tmp/claude-0/-home-user-chorn-samnang/6a45d9a2-ee68-513d-8541-ced6bdcc45e8/scratchpad/vid/100th_Maintenance_Squadron_isochronal_inspection_%28954775%29.webm.1080p.vp9.webm",
+  "ss": 42,
+  "t": 4.6,
+  "use": "Wing inspection example B-roll"
+ },
+ {
+  "title": "File:386th AEW Aircraft Metals Specialists Perform Maintenance on a C-130 (993269).webm",
+  "dest": "assets/videos/rivet_work.mp4",
+  "video": true,
+  "src": "/tmp/claude-0/-home-user-chorn-samnang/6a45d9a2-ee68-513d-8541-ced6bdcc45e8/scratchpad/vid/386th_AEW_Aircraft_Metals_Specialists_Perform_Maintenance_on_a_C-130_%28993269%29.webm.1080p.vp9.webm",
+  "ss": 11.5,
+  "t": 5,
+  "use": "Fasteners B-roll"
+ },
+ {
+  "title": "File:386th AEW Aircraft Metals Specialists Perform Maintenance on a C-130 (993269).webm",
+  "dest": "assets/videos/access_panel.mp4",
+  "video": true,
+  "src": "/tmp/claude-0/-home-user-chorn-samnang/6a45d9a2-ee68-513d-8541-ced6bdcc45e8/scratchpad/vid/386th_AEW_Aircraft_Metals_Specialists_Perform_Maintenance_on_a_C-130_%28993269%29.webm.1080p.vp9.webm",
+  "ss": 26,
+  "t": 6,
+  "use": "Work through an access opening B-roll"
+ }
+]

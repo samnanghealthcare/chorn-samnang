@@ -1,0 +1,5 @@
+node_modules/
+output/render_raw.mp4
+output/*.wav
+public/assets/
+*.orig

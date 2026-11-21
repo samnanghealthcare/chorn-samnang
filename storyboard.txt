@@ -1,0 +1,132 @@
+STORYBOARD & SCENE BREAKDOWN
+AIRCRAFT GENERAL PRACTICES (ATA 20) & DIMENSIONS AND AREAS (ATA 06)
+Format: 1920x1080 · 16:9 · 30 fps · H.264/AAC · duration 2:22.5 (voice-over 2:20.2 + outro tail)
+Timing source: audio.mp3 (the original narration, NOT sped up or trimmed). Phrase boundaries come from
+FFmpeg silencedetect; the Khmer text was transcribed with a Khmer fine-tuned Whisper model and proof-read.
+Scene cuts are placed in natural pauses of the narration. Each scene cross-dissolves (0.5 s, zoom + blur).
+
+-------------------------------------------------------------------------------------------------
+SCENE 01 · HOOK                                                     00:00.0 – 00:11.6
+Voice-over:   "តើអ្នកដឹងទេថា... ការថែទាំយន្តហោះមួយគ្រឿង មិនមែនគ្រាន់តែដឹងពីរបៀបជួសជុលប៉ុណ្ណោះទេ
+               ប៉ុន្តែត្រូវដឹងថា ត្រូវធ្វើការនៅកន្លែងណា និងធ្វើយ៉ាងដូចម្ដេចទើបមានសុវត្ថិភាព"
+Main visual:  Kinetic question → real A320 at the gate → WHERE? / HOW? / SAFELY
+Background:   VIDEO a320_gate.mp4 (Austrian A320, CC0) with reverse zoom + pan
+Motion:       Mask-reveal Khmer title; red strike-through over "NOT ONLY HOW TO REPAIR"; 3 keyword reveals, light sweep, particles, HUD
+On-screen:    DID YOU KNOW? · តើអ្នកដឹងទេ? · AIRCRAFT MAINTENANCE · WHERE? HOW? SAFELY
+SFX:          impact 0.3 · jet rumble 1.3 · text whoosh 3.4 · mechanical 5.0 · pops 7.3/8.9/10.1
+Transition:   cinematic whoosh + dissolve/zoom-blur
+
+SCENE 02 · THE ATA CHAPTER SYSTEM                                   00:11.6 – 00:26.5
+Voice-over:   "ដើម្បីឲ្យការងារនេះមានស្តង់ដារ ... ប្រព័ន្ធ ATA Chapter ... ថ្ងៃនេះ យើងនឹងស្គាល់ជំពូកសំខាន់ពីរ គឺ ATA Chapter 20 និង ATA Chapter 06"
+Main visual:  /canva infographic grid of 49 real ATA iSpec 2200 chapter numbers; 06 & 20 light up, then two chapter cards
+Background:   PHOTO hangar_maintenance.jpg (blurred, Ken Burns) + animated blueprint grid
+Motion:       Typewriter, cascading tiles, focus-dim, 3D card reveal, light sweep
+On-screen:    STANDARD // TECHNICAL DOCUMENTATION · ATA CHAPTER SYSTEM · ATA 20 STANDARD PRACTICES – AIRFRAME · ATA 06 DIMENSIONS AND AREAS
+SFX:          whoosh 11.3 · text whoosh 15.4 · impacts 22.5 / 24.3
+Transition:   whoosh + dissolve
+
+SCENE 03 · ATA 20 TITLE                                             00:26.5 – 00:35.2
+Voice-over:   "ចាប់ផ្តើមពី ATA Chapter 20 — Standard Practices – Airframe វាជាគោលការណ៍ និងវិធីសាស្ត្រសម្រាប់ការងារថែទាំទូទៅលើយន្តហោះ"
+Main visual:  Chapter badge with number counter 00→20, then slides left to reveal "what it covers"
+Background:   VIDEO maint_hands.mp4 (USAF, public domain) in slow motion
+Motion:       Number counter, line draw, light sweep, warm particles
+On-screen:    ATA CHAPTER 20 · STANDARD PRACTICES – AIRFRAME · GENERAL MAINTENANCE PRACTICES
+SFX:          whoosh 26.2 · impact 27.4
+Transition:   whoosh + dissolve
+
+SCENE 04 · KEY PRACTICES (/roadmap)                                 00:35.2 – 00:44.85
+Voice-over:   "ដូចជា៖ ការប្រើប្រាស់ឧបករណ៍ឲ្យត្រឹមត្រូវ ការរឹតបន្តឹង Bolt និង Nut ការប្រើ Torque Wrench ការដំឡើង Fasteners និងការការពារច្រេះ"
+Main visual:  Left stage changes with each keyword; right: numbered roadmap 1–5 synced to the words
+Background:   Blueprint grid; PHOTO structural_repair.jpg → SVG torque wrench tightening a hex nut (click at torque) + PHOTO torque_wrench.jpg
+              → VIDEO rivet_work.mp4 (fasteners) → PHOTO corrosion_control.jpg
+Motion:       Animated steps + connecting line, mechanical rotation, "TORQUE REACHED · CLICK" ring, scan line
+On-screen:    TOOLS · BOLT & NUT · TORQUE WRENCH · FASTENERS · CORROSION PROTECTION (+ Khmer)
+SFX:          pops on each step · scan 38.2 · ratchet/mech click 41.1
+Transition:   whoosh + dissolve
+
+SCENE 05 · MAINTENANCE MANUAL & SAFETY                              00:44.85 – 00:50.6
+Voice-over:   "ចំណុចសំខាន់បំផុត គឺត្រូវអនុវត្តតាម Maintenance Manual និងគោលការណ៍សុវត្ថិភាពជានិច្ច"
+Main visual:  Opening book icon + shield with drawn check mark
+Background:   VIDEO maint_gear.mp4 (landing-gear inspection, public domain)
+On-screen:    MOST IMPORTANT · MAINTENANCE MANUAL · SAFETY · ALWAYS
+SFX:          pops 46.8 / 48.5
+Transition:   whoosh + dissolve
+
+SCENE 06 · ATA 06 TITLE (/blueprint)                                00:50.6 – 01:00.4
+Voice-over:   "បន្ទាប់មក គឺ ATA Chapter 06 Dimensions and Areas វាជួយឲ្យអ្នកបច្ចេកទេសយល់ពីវិមាត្រ និងទីតាំងនៃផ្នែកផ្សេងៗរបស់យន្តហោះ"
+Main visual:  REAL A320-200 three-view drawing (Wikimedia Commons, CC BY-SA) wiped in as a cyan blueprint
+Motion:       Wipe reveal + scan line, badge counter 00→06, callouts DIMENSIONS / LOCATIONS
+On-screen:    ATA CHAPTER 06 · DIMENSIONS AND AREAS
+SFX:          blueprint sweep + scan 50.9 · impact 51.3 · UI clicks 56.6 / 58.4
+Transition:   whoosh + dissolve
+
+SCENE 07 · OVERALL DIMENSIONS                                       01:00.4 – 01:06.95
+Voice-over:   "រួមមានប្រវែងតួយន្តហោះ ទំហំស្លាប កម្ពស់ និងទីតាំងរចនាសម្ព័ន្ធសំខាន់ៗ"
+Main visual:  Line-drawn top + side view, engineering dimension lines with arrows
+Values:       LENGTH 37.57 m · WINGSPAN 34.10 m · HEIGHT 11.76 m — A320-200 (wingtip fences),
+              source: Airbus "A320 Aircraft Characteristics – Airport and Maintenance Planning"; identical to the
+              dimensions printed on the Commons three-view (3757 / 3410 / 1176 cm)
+On-screen:    LENGTH · WINGSPAN · HEIGHT · FUSELAGE · WING · EMPENNAGE · "Illustrative outline"
+SFX:          sweep 60.0 · pops 60.7 / 62.6 / 63.6 · clicks on labels
+Transition:   whoosh + dissolve
+
+SCENE 08 · DRAWINGS, DIAGRAMS & COMPONENT LOCATION (/xray /explodedview /diagram)   01:06.95 – 01:14.35
+Voice-over:   "តាមរយៈ Technical Drawing និង Diagram យើងអាចស្វែងរកតំបន់ការងារ និងទីតាំងគ្រឿងបន្លាស់បានកាន់តែត្រឹមត្រូវ"
+Main visual:  REAL photo of IAE V2500 on a Lufthansa A320 → X-ray turbofan diagram (rotating fan, glowing combustor)
+              → exploded view of the modules; inset REAL V2500 museum cutaway
+On-screen:    TECHNICAL DRAWING · DIAGRAM · WORK AREA · COMPONENT LOCATION · FAN · COMPRESSOR · COMBUSTION CHAMBER · TURBINE · EXHAUST · SHAFT
+              "Illustrative Visualization · generic turbofan, not to scale"
+SFX:          scan 69.3 · UI clicks per label · mechanical impact 72.4 (explode)
+Transition:   whoosh + dissolve
+
+SCENE 09 · AIRCRAFT ZONES (Map animation)                           01:14.35 – 01:21.7
+Voice-over:   "ប៉ុន្តែការស្គាល់ទំហំ មិនទាន់គ្រប់គ្រាន់ទេ។ យន្តហោះត្រូវបានបែងចែកជាតំបន់ ដែលហៅថា Aircraft Zones"
+Main visual:  Tilted 3D top-view map; red dashed dimension lines ("size alone is not enough"), then major zones fill one by one
+Zones:        100/200 fuselage lower/upper · 300 empennage · 400 power plants · 500 left wing · 600 right wing ·
+              700 landing gear & doors · 800 doors  (standard ATA iSpec 2200 major-zone numbering)
+SFX:          pops per zone (78.0 – 80.7)
+Transition:   whoosh + dissolve
+
+SCENE 10 · STATIONS: FS / BL / WL                                   01:21.7 – 01:29.9
+Voice-over:   "ចំណែកប្រព័ន្ធ Stations ប្រើសម្រាប់កំណត់ទីតាំងតាមបន្ទាត់យោង ដូចជា Fuselage Station, Buttock Line និង Water Line"
+Main visual:  Side view with sweeping FS lines and WL levels; top view with BL lines from the centreline (BL 0)
+On-screen:    STATIONS · FS FUSELAGE STATION · BL BUTTOCK LINE · WL WATER LINE (+ Khmer meaning) — no station values shown
+SFX:          scan 82.6 · clicks 86.8 / 87.9 / 88.8
+Transition:   whoosh + dissolve
+
+SCENE 11 · LOCATING A STRUCTURE (Map animation)                     01:29.9 – 01:37.4
+Voice-over:   "ចំណុចទាំងនេះ ជួយឲ្យអ្នកបច្ចេកទេសអាចកំណត់ទីតាំងរចនាសម្ព័ន្ធ និងស្វែងរកកន្លែងដែលត្រូវធ្វើការបាន"
+Main visual:  Perspective digital grid, animated route along FS then BL, moving dots, crosshair pin "WORK AREA"
+SFX:          scan/typewriter 90.6 · radar pings 93.1 / 94.6
+Transition:   whoosh + dissolve
+
+SCENE 12 · EXAMPLE: WING INSPECTION                                 01:37.4 – 01:48.35
+Voice-over:   "ឧទាហរណ៍ នៅពេលត្រូវត្រួតពិនិត្យស្លាបយន្តហោះ អ្នកបច្ចេកទេសប្រើ ATA Chapter 06 ដើម្បីស្វែងរក Zone, Station និង Access Panel ដែលត្រឹមត្រូវ"
+Main visual:  VIDEO maint_topwing.mp4 → blueprint camera zoom into zone 500; station line; blinking access panel; checklist;
+              inset VIDEO access_panel.mp4
+On-screen:    WING INSPECTION · ZONE · STATION · ACCESS PANEL
+SFX:          sweep 100.2 · pops 103.6 / 104.6 / 105.7
+Transition:   whoosh + dissolve
+
+SCENE 13 · APPLY ATA 20 + WORKING TOGETHER (/timeline /cycle)       01:48.35 – 01:59.45
+Voice-over:   "បន្ទាប់មក ប្រើគោលការណ៍ ATA Chapter 20 ដើម្បីរៀបចំឧបករណ៍ អនុវត្តការងារ និងត្រួតពិនិត្យសុវត្ថិភាព។
+               នេះហើយជារបៀបដែលចំណេះដឹងទាំងពីរ ធ្វើការរួមគ្នា"
+Main visual:  PHOTO technician.jpg + 3-step timeline; then rotating cycle ATA 06 WHERE ⇄ ATA 20 HOW
+SFX:          text whoosh 109.3 · pops 111.5 / 112.9 / 114.2 · sweep 115.3
+Transition:   whoosh + dissolve
+
+SCENE 14 · SUMMARY (/decisionmatrix)                                01:59.45 – 02:15.8
+Voice-over:   "សរុបមក ATA Chapter 06 ប្រាប់យើងថា ត្រូវធ្វើការនៅកន្លែងណា ចំណែក ATA Chapter 20 បង្ហាញពីគោលការណ៍ និងវិធីសាស្ត្រដែលត្រូវអនុវត្ត។
+               ស្គាល់ទីតាំងឲ្យច្បាស់ អនុវត្តតាមស្តង់ដារ និងដាក់សុវត្ថិភាពជាអាទិភាព"
+Main visual:  Comparison matrix (WHERE? ✓ ATA 06, HOW? ✓ ATA 20), then three take-away cards 01/02/03
+Background:   PHOTO a320_lufthansa.jpg blurred + grid
+SFX:          clicks 121.8 / 127.8 · pops 131.0 / 132.5 / 133.9
+Transition:   whoosh + dissolve
+
+SCENE 15 · OUTRO                                                    02:15.8 – 02:22.5
+Voice-over:   "នេះគឺជាមូលដ្ឋានសំខាន់នៃការថែទាំយន្តហោះប្រកបដោយវិជ្ជាជីវៈ"
+Main visual:  VIDEO a320_approach.mp4 (A320 on approach), title, end card ATA 06 | ATA 20, media credits, fade to black
+SFX:          jet 134.9 · text whoosh 136.4 · impact 140.3
+
+GLOBAL: Khmer subtitles synced per phrase · animated progress bar · film grain · HUD corner brackets
+MUSIC: procedural cinematic ambient (Dm–B♭–F–C pads, sub drone, soft 90 bpm pulse, shimmer arpeggio), ducked under the voice
